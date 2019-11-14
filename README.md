@@ -14,6 +14,6 @@ make
 
 ## Exécution du projet
 ```
-./fdf map
+./fdf test_maps/10.fdf
 ```
 
