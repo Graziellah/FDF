@@ -12,8 +12,11 @@ Le projet est réalisé avec la minilibx, disponible dans le projet
 make
 ```
 
-## Exécution du projet
+## Usage
+Usage: fdf [map path]
 ```
 ./fdf test_maps/42.fdf
 ```
 
+You can create new map by using this repo [42MapGenerator](https://github.com/jgigault/42MapGenerator) created be 
+[jgigault](https://github.com/jgigault)
